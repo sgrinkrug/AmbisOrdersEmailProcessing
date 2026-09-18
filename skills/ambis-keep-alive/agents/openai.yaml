@@ -1,0 +1,4 @@
+interface:
+  display_name: "AMBIS Keep Alive"
+  short_description: "Refresh an open AMBIS Chrome tab once."
+  default_prompt: "Use $ambis-keep-alive to refresh the active AMBIS Chrome session once."
