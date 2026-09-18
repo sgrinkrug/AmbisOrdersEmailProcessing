@@ -1,0 +1,4 @@
+interface:
+  display_name: "AMBIS Update Invoice Info"
+  short_description: "Attach AMBIS invoices, then notes"
+  default_prompt: "Use $ambis-update-invoice-info to dry-run AMBIS invoice attachment uploads and note updates."
