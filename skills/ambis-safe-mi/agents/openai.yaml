@@ -1,0 +1,4 @@
+interface:
+  display_name: "AMBIS SAFE-MI"
+  short_description: "Review SAFE-MI folders for AMBIS follow-up"
+  default_prompt: "Use $ambis-safe-mi to process SAFE-MI follow-up folders."
