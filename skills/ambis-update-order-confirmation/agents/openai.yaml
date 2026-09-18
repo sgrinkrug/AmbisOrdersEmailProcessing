@@ -1,0 +1,4 @@
+interface:
+  display_name: "AMBIS Update Order Confirmation"
+  short_description: "Attach AMBIS confirmations, then notes"
+  default_prompt: "Use $ambis-update-order-confirmation to dry-run AMBIS order-confirmation attachment uploads and note updates."
