@@ -1,0 +1,3 @@
+interface:
+  display_name: "AMBIS Update Receiving"
+  short_description: "Update AMBIS from receiving-confirmation emails"
