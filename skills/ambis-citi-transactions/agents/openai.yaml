@@ -1,0 +1,4 @@
+interface:
+  display_name: "AMBIS Citi Transactions"
+  short_description: "Find Citi transactions and update AMBIS notes"
+  default_prompt: "Use $ambis-citi-transactions to dry-run Citi transaction matching and AMBIS note updates without creating or uploading attachments."
