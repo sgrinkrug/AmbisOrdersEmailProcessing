@@ -1,0 +1,4 @@
+interface:
+  display_name: "AMBIS Update Tracking Info"
+  short_description: "Find AMBIS shipment tracking notes"
+  default_prompt: "Use $ambis-update-tracking-info to dry-run AMBIS Pending Receiving orders for shipment confirmations and tracking notes."
