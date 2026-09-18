@@ -1,0 +1,4 @@
+interface:
+  display_name: "AMBIS Receiving Drafts"
+  short_description: "Draft AMBIS receiving emails"
+  default_prompt: "Use $ambis-receiving-drafts to process AMBIS Pending Receiving orders and create Outlook receiving drafts."
